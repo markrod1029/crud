@@ -1,2 +1,2 @@
 # crud
-Crud Read Update Delety 
+Crud Read Update Delete 
